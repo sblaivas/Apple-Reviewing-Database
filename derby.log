@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 04 10:55:00 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0187-e742-6228-00000dfb1d18 
+on database directory /Users/stevenblaivas/Downloads/Apple/applereviewDb with class loader sun.misc.Launcher$AppClassLoader@4b67cf4d 
+Loaded from file:/Users/stevenblaivas/Downloads/Apple/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_352-b08
+user.dir=/Users/stevenblaivas/Downloads/Apple
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.3.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
